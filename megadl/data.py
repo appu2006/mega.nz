@@ -182,12 +182,5 @@ Save the Log file and Send it to @Nexa_bots for Help :)
 """
 
 START_TEXT="""
-    _   __                   ____        __      
-   / | / /__  _  ______ _   / __ )____  / /______
-  /  |/ / _ \| |/_/ __ `/  / __  / __ \/ __/ ___/
- / /|  /  __/>  </ /_/ /  / /_/ / /_/ / /_(__  ) 
-/_/ |_/\___/_/|_|\__,_/  /_____/\____/\__/____/ 
-
-
-Bot is Running Now! Join @NexaBotsUpdates
+Bot is Running Now
 """
