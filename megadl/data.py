@@ -15,7 +15,7 @@ Messages = {
   ✘ Wait Till It Download and Upload to Telegram.
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with the repo of @NexaBotsUpdates**    
 """,
 
     "up": """
@@ -29,7 +29,7 @@ Messages = {
   ✘ Wait till It Download and Upload to Mega.nz
   
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """,
 
     "import": """
@@ -41,7 +41,7 @@ Messages = {
   ✘ Wait till It Finish
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with the repo of @NexaBotsUpdates**    
 """,
 
     "file_info": """
@@ -53,7 +53,7 @@ Messages = {
   ✘ Type: `{uname} details` and after that give a one space and paste your mega.nz link (**Usage:** `{uname} details your_mega_link`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """,
 
     "acc_info": """
@@ -65,7 +65,7 @@ Messages = {
   ✘ Type: `{uname} info` (**Usage:** `{uname} info`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """
 }
 
